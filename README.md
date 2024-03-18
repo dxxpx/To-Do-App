@@ -11,5 +11,3 @@ Task 1 at Nexilo Internship ✔️: Successfully completed developing a dynamic 
 🔄 **State Management with StatefulWidget**: Utilized Flutter's StatefulWidget to manage the state of the application, ensuring efficient data flow and responsiveness. With initState() and setState(), the application seamlessly updates the UI in response to user interactions, delivering a fluid and interactive experience.
 
 🌐 **Integration with External Packages**: Leveraged external packages like 'flutter/material.dart' for UI components and 'flutter_color.dart' for color management, streamlining development and enhancing code efficiency.
-
-Excited to embark on the next phase of the Nexilo Internship journey, where I'll continue to leverage my skills and passion for Flutter development to create innovative solutions and drive impactful results! Stay tuned for more updates as we dive deeper into building cutting-edge applications. #NexiloInternship #FlutterDevelopment #InnovativeSolutions"
